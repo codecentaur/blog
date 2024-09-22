@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[576],{1832:e=>{e.exports=JSON.parse('{"label":"math-learner","permalink":"/blog/tags/math-learner","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
